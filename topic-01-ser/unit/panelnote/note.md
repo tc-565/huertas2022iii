@@ -1,0 +1,4 @@
+# ¿Qué son las huertas verticales?
+¿Qué son las huertas verticales?
+
+Las huertas verticales, bien como dice su nombre, aprovechan el espacio al cultivar las plantas en estructuras que se extienden hacia arriba, en contraposición con los métodos de cultivo usuales sobre el suelo. Es un sistema de cultivo en el que las plantas crecen en es- tructuras verticales, en lugar de campos o jardines. Estas huertas pueden ser una solución eficiente y sostenible para cultivar vegetales y hierbas en espacios limitados o en entornos urbanos donde el suelo es escaso, y donde además se cuenta ya con estructuras propicias para el desarrollo de este tipo de agricultura.

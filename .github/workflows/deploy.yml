@@ -20,7 +20,7 @@ jobs:
 
             - name: Install tutors-html
               run: |
-                  npm install --global tutors-publish-html@3.0.4
+                  npm install --global tutors-publish-html@3.0.7
             
             - name: Build site
               run: |
